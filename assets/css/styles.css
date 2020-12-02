@@ -1,0 +1,9 @@
+.date{
+    width:200px;
+}
+
+.container{
+    background: url("../images/generic-bg.jpg");
+    padding-top: 40px;
+    padding-bottom:40px;
+}
